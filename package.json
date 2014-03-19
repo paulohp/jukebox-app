@@ -3,5 +3,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/paulohp/jukebox-app.git"
+  },
+  "dependencies":{
+    "torrent-stream": "0.2.3"
   }
 }
